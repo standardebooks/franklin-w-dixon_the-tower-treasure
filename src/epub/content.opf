@@ -38,10 +38,10 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">Unknown</meta>
 		<meta property="se:subject">Adventure</meta>
-		<meta property="se:subject">Children's</meta>
+		<meta property="se:subject">Children’s</meta>
 		<meta property="se:subject">Fiction</meta>
 		<meta property="se:subject">Mystery</meta>
-		<dc:description id="description">When the tower mansion is robbed, the Hardy boys, Frank and Joe, are determined to find the culprit and exhonerate their friend's father.</dc:description>
+		<dc:description id="description">When the tower mansion is robbed, the Hardy boys, Frank and Joe, are determined to find the culprit and exhonerate their friend’s father.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;While riding their motorcycles into town, Frank and Joe Hardy are nearly run off the road by a roadster that they later realize belongs to their friend Chet. As they set out to solve the mystery of the stolen car, the tower mansion is broken into and robbed. Are the crimes related? The Hardy boys will do their best to figure it out.&lt;/p&gt;
 			&lt;p&gt;This book is the first in the Hardy boys series of novels, first published in 1927. It was updated and rewritten in 1959. Now you can read the original text, warts and all, to see where the phenomenon started.&lt;/p&gt;
@@ -51,7 +51,6 @@
 		<dc:source>https://www.google.com/books/edition/The_Tower_Treasure/gJYKAQAAMAAJ</dc:source>
 		<meta id="collection-1" property="belongs-to-collection">The Hardy boys mystery stories</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Tower_Treasure</meta>
@@ -72,7 +71,7 @@
 		<meta property="file-as" refines="#transcriber-2">Meehan, Mary</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">The Online Distributed Proofreading Team</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">Online Distributed Proofreading Team, The</meta>
+		<meta property="file-as" refines="#transcriber-3">Online Distributed Proofreading Team, The</meta>
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<meta property="se:url.homepage" refines="#transcriber-3">http://www.pgdp.net</meta>
 		<dc:contributor id="producer-1">Howard G. Cornett</dc:contributor>
