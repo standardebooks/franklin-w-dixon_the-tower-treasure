@@ -2,8 +2,8 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 #chapter-10 blockquote{
-	font-weight: bold;
 	text-align: center;
+	text-transform: uppercase;
 }
 
 #chapter-24 blockquote{
