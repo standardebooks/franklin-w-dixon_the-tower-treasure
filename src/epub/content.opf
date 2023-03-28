@@ -43,6 +43,7 @@
 		<meta property="se:subject">Mystery</meta>
 		<meta id="collection-1" property="belongs-to-collection">The Hardy Boys</meta>
 		<meta property="collection-type" refines="#collection-1">series</meta>
+		<meta property="group-position" refines="#collection-1">1</meta>
 		<dc:description id="description">After a tower mansion is robbed, two boys are determined to find the culprit and exonerate their friend’s father.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			&lt;p&gt;While riding their motorcycles into town, Frank and Joe Hardy are nearly run off the road by a roadster that they later realize belongs to their friend Chet. As they set out to solve the mystery of the stolen car, the tower mansion is broken into and robbed. Are the crimes related? The Hardy boys will do their best to figure it out.&lt;/p&gt;
