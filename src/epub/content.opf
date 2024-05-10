@@ -53,7 +53,7 @@
 		<dc:source>https://www.gutenberg.org/ebooks/70083</dc:source>
 		<dc:source>https://www.google.com/books/edition/The_Tower_Treasure/gJYKAQAAMAAJ</dc:source>
 		<meta property="se:word-count">42489</meta>
-		<meta property="se:reading-ease.flesch">84.37</meta>
+		<meta property="se:reading-ease.flesch">84.47</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Tower_Treasure</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/franklin-w-dixon_the-tower-treasure</meta>
 		<dc:creator id="author">Franklin W. Dixon</dc:creator>
